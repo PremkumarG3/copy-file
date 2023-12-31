@@ -31,7 +31,9 @@ with open("file2.txt","w") as f1:
 
 ![image](https://github.com/PremkumarG3/copy-file/assets/138955646/663aee29-2b67-4c4f-864e-792f69fe4e4b)
 
-![image](https://github.com/PremkumarG3/copy-file/assets/138955646/8d3aadd1-a027-4015-9e64-58520e12354b)
+
+![Screenshot 2023-12-31 171116](https://github.com/PremkumarG3/copy-file/assets/138955646/f3478bdb-42e0-4884-8ceb-0120978fb561)
+
 
 ![Screenshot 2023-12-31 171149](https://github.com/PremkumarG3/copy-file/assets/138955646/0a83db7e-f394-4e26-8ebc-e1d1e727d583)
 
